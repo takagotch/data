@@ -8,6 +8,9 @@ http://www.noaa.gov
 
 http://www.ncdc.noaa.gov/
 
+//bank
+https://data.worldbank.org/
+
 //finance
 http://monony.com/magazines/fortune/fortune500/2027/full_list/
 
