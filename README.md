@@ -19,3 +19,7 @@ http://www.thecro.com/files/100Best2017_List_3.8.pdf
 //
 http://www.pnas.org/content/15/3/168.full
 
+//us
+http://intridea.github.io/stately
+//eu
+http://sathomas.me/continental/
